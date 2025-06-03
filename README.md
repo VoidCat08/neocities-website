@@ -2,18 +2,20 @@
 A backup/version history of my neocities website. Nothing serious, just a bit of fun.
 
 
-How this works:
+How This Works:
 
-I'm not 100% familar with github, so I'm practically jerry rigging this system to the best of my ability. Each folder you see when opening this repository is basically just a different version of my neocities website.
+I'm not 100% familiar with GitHub, so I'm basically jerry rigging this system to the best of my ability. Each folder you see when opening this repository is essentially a different version of my Neocities website.
 
-I'm assuming you have a vauge understanding of version history, which is about as much as I know.
+I'm assuming you have a vague understanding of version history.
 
-So the numbers go generally go: Major.Minor.Patch
+The version numbers generally follow this format: Major.Minor.Patch
 
-I'm not going to overwhelem this repository with every single little change I make resulting in a new folder. Typically "Patches" will just get changed and the version history will be edited to reflect that. Major and Minor updates/changes will get their own folders. Here's a breakdown of what will and what wont be counted.
+I'm not going to overwhelm this repository by creating a new folder for every tiny change I make. Typically, patches will just be edited directly, and the version history will be updated to reflect that. Major and minor updates or changes will get their own folders. Here's a breakdown of what will and won’t be counted:
 
-"Patches" - Small minor tweaks like wording, phrasing, or small bugs
-Minor - New Pages or Moderate changes to already exsisting pages
-Major - Overhauls, large changes to new pages, large additions like a webgame
+Patch – Small tweaks like wording, phrasing, or minor bug fixes
 
-The sytem is likely to change as I figure this whole thing out. Although there's likely no one reading this right now.
+Minor – New pages or moderate changes to existing pages
+
+Major – Overhauls, significant changes to multiple existing pages, or large additions like a web game
+
+This system is likely to evolve as I figure things out. Not that anyone's probably reading this right now anyway.
